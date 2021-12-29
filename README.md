@@ -112,7 +112,7 @@ _____________|','   ///_/-------------/   |
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
-[leetcode]: https://leetcode.com/pawanop/
+
 [website]: https://pawanop.github.io/pawanKs.github.io/
 [twitter]: https://twitter.com/PawanJa95286337
 [youtube]:https://www.youtube.com/channel/UC9baXZ-q4tfLidsUYmSu2ig
