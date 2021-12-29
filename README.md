@@ -3,8 +3,9 @@
 [![Website](https://img.shields.io/website?label=https://pawanop.github.io/pawanKs.github.io/&style=for-the-badge&url=https%3A%2F%2Fhttps://pawanop.github.io/pawanKs.github.io/)](https://pawanop.github.io/pawanKs.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/PawanJa95286337?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/PawanJa95286337)
 
-## I'm a , developer and UX /UI designer!!
+## I'm a Problem Solver, developer and UX /UI designer!!
 
+## LeetCode Profile [leetcode]
 
 - 🌱 I’m currently looking for front end developer Job 🤣
 - �💞️ I’m looking to collaborate on work related my learning
@@ -111,7 +112,7 @@ _____________|','   ///_/-------------/   |
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
-
+[leetcode]: https://leetcode.com/pawanop/
 [website]: https://pawanop.github.io/pawanKs.github.io/
 [twitter]: https://twitter.com/PawanJa95286337
 [youtube]:https://www.youtube.com/channel/UC9baXZ-q4tfLidsUYmSu2ig
