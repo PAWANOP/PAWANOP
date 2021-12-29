@@ -1,6 +1,6 @@
 ### Hi there, I'm pawan kumar - aka [pawanpks][website] 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fhttps://pawanop.github.io/pawanKs.github.io/)](https://pawanop.github.io/pawanKs.github.io/)
+[![Website](https://img.shields.io/website?label=https://pawanop.github.io/pawanKs.github.io/&style=for-the-badge&url=https%3A%2F%2Fhttps://pawanop.github.io/pawanKs.github.io/)](https://pawanop.github.io/pawanKs.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/PawanJa95286337?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/PawanJa95286337)
 
 ## I'm a , developer and UX /UI designer!!
