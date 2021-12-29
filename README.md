@@ -5,7 +5,7 @@
 
 ## I'm a Problem Solver, developer and UX /UI designer!!
 
-## LeetCode Profile [<img align="left" alt="express" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/leetcode-3628885-3030025.png" />]
+## [<img align="left" alt="leetcode" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/leetcode-3628885-3030025.png" />][leetcode]  LeetCode Profile 
 
 - 🌱 I’m currently looking for front end developer Job 🤣
 - �💞️ I’m looking to collaborate on work related my learning
@@ -76,4 +76,4 @@ _____________|','   ///_/-------------/   |
 [youtube]:https://www.youtube.com/channel/UC9baXZ-q4tfLidsUYmSu2ig
 [instagram]: https://www.instagram.com/pawanjangidjbr/
 [linkedin]: https://www.linkedin.com/in/pawanop/
-
+[leetcode]: https://leetcode.com/pawanop/
