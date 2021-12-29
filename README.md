@@ -116,7 +116,7 @@ _____________|','   ///_/-------------/   |
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://pawanop.github.io/pawanKs.github.io/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
