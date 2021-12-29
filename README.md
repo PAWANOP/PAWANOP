@@ -16,7 +16,7 @@
 ### 📫 Reach me out!
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px"  height="30px" src="https://www.freepnglogos.com/uploads/youtube-play-red-logo-png-transparent-background-6.png" />][youtube]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px"   src="https://www.freepnglogos.com/uploads/youtube-play-red-logo-png-transparent-background-6.png" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" />][instagram]
