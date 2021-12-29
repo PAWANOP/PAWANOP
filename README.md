@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m currently looking for front end developer Job 🤣
-- 👯 I’m looking to collaborate with other content creators
+- �💞️ I’m looking to collaborate on work related my learning
 - 👀 I’m interested in Web development
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to reading novels and listening music
