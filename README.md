@@ -6,7 +6,7 @@
 ## I'm a , developer and UX /UI designer!!
 
 
-- 🌱 I’m currently looking for front end developer 🤣
+- 🌱 I’m currently looking for front end developer Job 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
