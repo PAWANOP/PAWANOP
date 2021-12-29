@@ -5,7 +5,7 @@
 
 ## I'm a Problem Solver, developer and UX /UI designer!!
 
-## [<img align="right" alt="leetcode" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/leetcode-3628885-3030025.png" />][leetcode]  LeetCode Profile 
+## [<img align="left" alt="leetcode" width="26px" src="https://cdn.iconscout.com/icon/free/png-64/leetcode-3628885-3030025.png" />][leetcode]  LeetCode Profile 
 
 - 🌱 I’m currently looking for front end developer Job 🤣
 - �💞️ I’m looking to collaborate on work related my learning
